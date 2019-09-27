@@ -1,0 +1,6 @@
+
+*.xml
+*.class
+.project
+.idea/vcs.xml
+*.xml
